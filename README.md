@@ -1,5 +1,5 @@
-# SJR_SMRTseq
-Sort,align,variant calling
+# SJR_SmrtSeqTool
+Sort, align, variant calling
 
 SJR_SmrtSeqTool is a pipeline that sorts next-gen sequencing fastq files obtained from PACBIO platform by barcodes and aligns the barcode-sorted sequences to a reference sequence. The pipeline also identifies variants after sequence alignment.
 
